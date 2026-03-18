@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "オツキミリサイタル",
+  "base_artist": "じん",
+  "createdAt": "2026-03-18T01:59:19.238929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オツキミリサイタル",
+      "artist": "じん Feat. IA",
+      "has_synced": true,
+      "path": "select/01_オツキミリサイタル_じん_Feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オツキミリサイタル",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/02_オツキミリサイタル_Various.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オツキミリサイタル",
+      "artist": "Jin",
+      "has_synced": true,
+      "path": "select/03_オツキミリサイタル_Jin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オツキミリサイタル",
+      "artist": "Jin feat. IA",
+      "has_synced": true,
+      "path": "select/04_オツキミリサイタル_Jin_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オツキミリサイタル",
+      "artist": "melost",
+      "has_synced": false,
+      "path": "select/05_オツキミリサイタル_melost.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オツキミリサイタル",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/06_オツキミリサイタル_VA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "オツキミリサイタル (Moon-Viewing Recital)",
+      "artist": "Jin",
+      "has_synced": true,
+      "path": "select/07_オツキミリサイタル_(Moon-Viewing_Recital)_Jin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オツキミリサイタル (Paused)",
+      "artist": "Jin",
+      "has_synced": true,
+      "path": "select/08_オツキミリサイタル_(Paused)_Jin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "オツキミリサイタル",
+      "artist": "じん feat.IA",
+      "has_synced": true,
+      "path": "select/09_オツキミリサイタル_じん_feat.IA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "オツキミリサイタル",
+      "artist": "melost(天月-あまつき-×はしやん)",
+      "has_synced": false,
+      "path": "select/10_オツキミリサイタル_melost(天月-あまつき-×はしやん).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "オツキミリサイタル",
+      "artist": "yuikonnu",
+      "has_synced": true,
+      "path": "select/11_オツキミリサイタル_yuikonnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オツキミリサイタル",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_オツキミリサイタル_じん.txt"
+    }
+  ]
+}
